@@ -31,9 +31,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-try this acc to check web3 socials 0x7241DDDec3A6aF367882eAF9651b87E1C7549Dff , 0x2247d5d238d0f9d37184d8332aE0289d1aD9991b
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # web3Social
+try this acc to check web3 socials 
+0x7241DDDec3A6aF367882eAF9651b87E1C7549Dff , 
+0x2247d5d238d0f9d37184d8332aE0289d1aD9991b
